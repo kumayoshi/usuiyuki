@@ -18,6 +18,7 @@
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
+      <div><nuxt-link to="items">items</nuxt-link></div>
     </div>
   </section>
 </template>
@@ -62,4 +63,3 @@ export default {
   padding-top: 15px;
 }
 </style>
-
